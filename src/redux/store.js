@@ -6,7 +6,7 @@ const sagaMiddleWare = createSagaMiddleware();
 const store = configureStore({
   reducer: rootReducer,
   middleWare: () => {
-    sagaMiddleWare;
+    return sagaMiddleWare
   },
 });
 sagaMiddleWare.run(getProducts);

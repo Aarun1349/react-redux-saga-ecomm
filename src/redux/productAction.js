@@ -1,6 +1,6 @@
 
 export const addProduct = (product)=>{
-    console.warn('data=>',data)
+    console.warn('data=>',product)
     return {
         type:'ADD_PRODUCT',
         data:product
