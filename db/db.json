@@ -1,0 +1,38 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": "15000₹",
+      "color": "black",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fpea-coat-for-man-13231480873.html&psig=AOvVaw1YkjKTbl-juKzP9pQRPg19&ust=1673755572739000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjb2cSXxvwCFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": 1,
+        "name": "Product 2",
+        "price": "7000₹",
+        "color": "steel grey ",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fpea-coat-for-man-13231480873.html&psig=AOvVaw1YkjKTbl-juKzP9pQRPg19&ust=1673755572739000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjb2cSXxvwCFQAAAAAdAAAAABAE"
+      },
+      {
+        "id": 1,
+        "name": "Product 3",
+        "price": "25000₹",
+        "color": "carduroy black",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fpea-coat-for-man-13231480873.html&psig=AOvVaw1YkjKTbl-juKzP9pQRPg19&ust=1673755572739000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjb2cSXxvwCFQAAAAAdAAAAABAE"
+      },{
+        "id": 1,
+        "name": "Product 4",
+        "price": "12000₹",
+        "color": "biege",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fpea-coat-for-man-13231480873.html&psig=AOvVaw1YkjKTbl-juKzP9pQRPg19&ust=1673755572739000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjb2cSXxvwCFQAAAAAdAAAAABAE"
+      },
+      {
+        "id": 1,
+        "name": "Product 5",
+        "price": "8000₹",
+        "color": "navy blue",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fpea-coat-for-man-13231480873.html&psig=AOvVaw1YkjKTbl-juKzP9pQRPg19&ust=1673755572739000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjb2cSXxvwCFQAAAAAdAAAAABAE"
+      }
+  ]
+}
